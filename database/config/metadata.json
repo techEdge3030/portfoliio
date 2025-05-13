@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Do Quoc Dat",
+    "title": "Do Quoc Dat - FullStack Developer",
+    "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "locale": "vi-VN",
+    "timeZone": "Asia/Ho_Chi_Minh"
+  },
+  "personal": {
+    "name": "Do Quoc",
+    "surname": "Dat",
+    "role": "FullStack Developer",
+    "experience": 6,
+    "email": "atlas3030wei@gmail.com",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "username": "@techEdge3030",
+    "resumeURL": "https://drive.google.com/file/d/1emWNdf6PMWO4BxAW5OWmlVjKkWYaaJyh/view"
+  },
+  "social": {
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "github": "https://github.com/techEdge3030",
+    "codepen": ""
+  },
+  "content": {
+    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+  }
+}

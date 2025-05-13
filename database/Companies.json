@@ -1,0 +1,60 @@
+[
+  {
+    "position": "Senior FullStack Developer",
+    "company": "TPS Software",
+    "duration": "April 2023 - August 2024",
+    "location": "Hanoi, Vietnam",
+    "image": "/company/tentwenty.svg",
+    "url": "https://www.tentwenty.me/",
+    "responsibilities": [
+      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
+      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
+      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
+      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
+      "Experienced Arabic RTL layout in two significant projects.",
+      "Successfully met deadlines, delivering 10+ projects on time."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "FullStack Developer",
+    "company": "DFT JSC",
+    "duration": "March 2021 - February 2023",
+    "location": "Hanoi, Vietnam",
+    "image": "/company/agency-look.svg",
+    "url": "https://look.agency/",
+    "responsibilities": [
+      "Developed and maintained functional pages for web applications.",
+      "Worked with a .NET based custom CMS.",
+      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
+    ],
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  },
+  {
+    "position": "UI & FE Developer",
+    "company": "FPT Software",
+    "duration": "April 2020 - February 2021",
+    "location": "Hanoi, Vietnam",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "httsp://denge.com.tr/",
+    "responsibilities": [
+      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
+      "Collaborated closely with two backend developers, creating the fullstack of the entire project.",
+      "Ensured fast page loading, scoring over 90 in page speed.",
+      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  }
+]
